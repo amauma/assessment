@@ -6,10 +6,10 @@ body {
     margin-left: auto;
 }
 button {
-    padding: 2.5px 20px;
+    padding: 5px 20px;
     background-color: #337ab7;
-    border-style: none;
     color: #fdffff;
+    border-style: none;
 }
 input {
     height: 20px;
